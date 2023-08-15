@@ -8,3 +8,4 @@
 * [Setup styles use in project](setup-styles-use-in-project.md)
 * [Redux](redux.md)
 * [Project structure](project-structure.md)
+* [Coding conventions](coding-conventions.md)
